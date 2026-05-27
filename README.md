@@ -1,10 +1,10 @@
-## Olá 👋 Eu sou Carlos Daniel!
+## Olá, Eu sou Carlos Daniel!
 
 🎓 Estudante de Engenharia de Software  
 💻 Apaixonado por programação e tecnologia  
 🚀 Atualmente estudando Python e desenvolvimento de software
 
-<div style="display: inline_block"><br>
+<div style="display: flex; gap: 10px;">
   <img align="center" alt="Python" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
@@ -20,7 +20,6 @@
   <img align="center" alt="Github" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
-
 ##
 
 <div>
